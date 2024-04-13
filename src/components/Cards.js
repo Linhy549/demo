@@ -10,13 +10,13 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/nail-1.png"
+              src="/demo/images/nail-1.png"
               text="Various Nail Colors"
               // label='Adventure'
               // path='/services'
             />
             <CardItem
-              src="images/nail-2.jpg"
+              src="/demo/images/nail-2.jpg"
               text="Nail treament"
               // label='Luxury'
               // path='/services'
@@ -24,20 +24,20 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/nail-3.jpg"
-              text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
+              src="/demo/images/nail-3.jpg"
+              text="测试 3： Set Sail in the Atlantic Ocean visiting Uncharted Waters"
               // label='Mystery'
               // path='/services'
             />
             <CardItem
-              src="images/nail-spa.png"
-              text="Experience Football on Top of the Himilayan Mountains"
+              src="/demo/images/nail-spa.png"
+              text="测试 4：Experience Football on Top of the Himilayan Mountains"
               // label='Adventure'
               // path='/products'
             />
             <CardItem
-              src="images/nail-wax.png"
-              text="Ride through the Sahara Desert on a guided camel tour"
+              src="/demo/images/nail-wax.png"
+              text="测试 5：Ride through the Sahara Desert on a guided camel tour"
               // label='Adrenaline'
               // path='/sign-up'
             />
